@@ -9,11 +9,8 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "immutability-helper": "^2.6.6",
-    "jest": "^22.4.3",
     "lodash": "^4.17.5",
     "prettier": "^1.13.7",
-    "ts-loader": "^3.5.0",
     "typescript": "^2.8.1"
   },
   "files": [
