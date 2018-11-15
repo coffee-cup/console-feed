@@ -1,6 +1,6 @@
 {
   "name": "console-feed-serialize",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "lib/index.js",
   "description": "A React component that displays console logs from the current page, an iframe or transported across a server",
   "scripts": {
